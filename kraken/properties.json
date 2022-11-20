@@ -3,7 +3,7 @@
     "USERNAME1": "mr.gomezc1@uniandes.edu.co",
     "PASSWORD1": "mr.gomezc1",
     "TAG_NAME": "kraken-tag",
-    "URL1": "http://192.168.0.10:3001/ghost/",
+    "URL1": "http://localhost:2368/ghost/",
     "GH_VERSION": "5.18"
 
 
