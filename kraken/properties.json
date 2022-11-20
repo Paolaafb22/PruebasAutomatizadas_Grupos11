@@ -4,7 +4,14 @@
     "PASSWORD1": "mr.gomezc1",
     "TAG_NAME": "kraken-tag",
     "URL1": "http://localhost:2368/ghost/",
-    "GH_VERSION": "5.18"
+    "GH_VERSION": "5.18",
+     "URL": "http://localhost:3001/ghost/#/signin",
+    "Identificacion": "123@gmail.com",
+    "Password": "pruebas123456",
+    "URL2": "http://localhost:3001/ghost/#/settings/general",
+    "texto": "fin de la prueba",
+    "URL3": "http://localhost:2368/ghost/#/settings/design",
+    "texto2": "qqqqqq"
 
 
 }
