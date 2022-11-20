@@ -57,3 +57,5 @@
 
 4. Verifique el resultado de la ejecucion de los scripts de escenarios en la linea de comandos de windows donde se ejecuta
    el comando kraken-node run.
+
+5. Para los escenarios de Settings, se tiene un step para cada escenario. Desde el Step1 hasta el step 5. El Step1 es para el escenario 06 6-Settings_General.feature, el Step 2 para el escenario 7-SettingsDesign.feature, el Step03 para el escenario 8.SettingMembers.feature, el step4 para el escenario 9-SettingsIntegrations.feature, el step 5 para el escenario 10-SettingsEmailNewsletter.feature.
