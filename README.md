@@ -65,7 +65,7 @@
 |E0018| Manuel Vallejo | Borrar Member GHOST |Test app Web GHOST. | BDD |Como  usuario 1 inicio sesion web GHOST y borro Member existente.|Test que permite verificar login con credenciales a app GHOST, listar Members, elegir un Member existente y borrarlo. El nombre de Member es parametrizado en file properties.|
 |E0019| Manuel Vallejo | Exportar Members GHOST |Test app Web GHOST. | BDD |Como  usuario 1 inicio sesion web GHOST y exporto los Members existentes.|Test que permite verificar login con credenciales a app GHOST, listar Members y exportarlos.|
 
-## Pros y Contras: Kraken-Cypress-Playwrigth
+## Pros y Contras: ResembleJS - BackstopJS
 | Herramienta | Pros. | Contras |
 |-|-|-|
 | ResembleJS | |
