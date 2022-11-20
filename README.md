@@ -25,7 +25,7 @@
 
 ## Instruccion para Ejecución de Reporte VRT Screenshot_Escenarios_test:
 
-      [Repositorio_codigo]()
+      [Repositorio_codigo](https://github.com/lwilches/pruebas_automatizadas_vrt_grupo11)
 
 ## Funcionalidades:
 
