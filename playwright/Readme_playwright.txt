@@ -35,5 +35,8 @@
 3. verifique el resultado de screenshot en carpeta:  
    
         .\playwright
-
+      * Ejecutar comando  `npm install`
+      * Para correr los test `npm playwright test`
+      * Para ver  los resultados `npx playwright show-report`
+      
 4. Verifique el resultado de la ejecucion de los scripts de escenarios en la linea de comandos de windows.
