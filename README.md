@@ -83,8 +83,10 @@
 
 |Id| tester | Funcionalidad | Requerimiento | Tipo | Nombre | Descripción |
 |-|-|-|-|-|-|-|
-|E0002| Mario Gomez | List Tags  GHOST |Test app Web GHOST. | BDD |Como  usuario 1 inicio sesión web y tengo la lista de tags en GHOST|Test que permite verificar login con credenciales a app GHOST y obtener lista de TAGS creados.|
-|E0003| Mario Gomez | Create Tag succes  GHOST |Test app Web GHOST. | BDD |Como  usuario 1 inicio sesion web GHOST y creo tag nuevo con un nombre.|Test que permite verificar login con credenciales a app GHOST , listar los tags creados y crear un nombre. el nombre se parametriza en file properties.|
+|E0001| Mario Gomez | Login success GHOST |Test app Web GHOST. | cypress (page Object) |Como  usuario 1 inicio sesion web GHOST|Test que permite verificar login con credenciales a app GHOST.|
+|E0002| Mario Gomez | List Tags  GHOST |Test app Web GHOST. | cypress (page Object) |Como  usuario 1 inicio sesión web y tengo la lista de tags en GHOST|Test que permite verificar login con credenciales a app GHOST y obtener lista de TAGS creados.|
+|E0003| Mario Gomez | Create Tag  GHOST |Test app Web GHOST. | kraken (given-when-then) |Como  usuario 1 inicio sesion web GHOST y creo tag nuevo con un nombre.|Test que permite verificar login con credenciales a app GHOST , listar los tags creados y crear un nombre. el nombre se parametriza en file properties.|
+|E0004| Mario Gomez | Edit Tag GHOST |Test app Web GHOST. | kraken (given-when-then)|Como  usuario 1 inicio sesion web GHOST y edito nombre de TAG. |Test que permite verificar login con credenciales a app GHOST, escoger un tag existente creado y cambiar o repetir nombre.|
 
 
 ## Pros y Contras: ResembleJS - BackstopJS
