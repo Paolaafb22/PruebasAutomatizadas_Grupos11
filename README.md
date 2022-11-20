@@ -96,8 +96,7 @@
 | ResembleJS | La configuración del ambiente para perzonalizar es comprensible y facil de configurar.  | La documentación del proyecto no es tan detallada |
 |            | Permite personalizar el reporte de una forma sencilla y se pueden adicionar mas parametros que el usuario requiera| la validación de las imagenes tiene que ser por un usuario y revisar bien las diferencias para documentar. |
 |            | se pueden definir con bastante precisión los parametros de comparación de las imagenes. | a pesar que se puede personalizar el reporte, requiere bastante esfuerso en codigo html para logra la vista de la interfaz del reporte.|
-|            | Presenta las diferencias en porcentaje de las imagenes. | |
-
+|            | Presenta las diferencias entre las imagenes before y after en porcentajes lo cual es bastante util. | |
 | BackstopJS | |
 |            | |
 
