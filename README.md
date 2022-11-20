@@ -23,6 +23,10 @@
      
       [Readme_playwrigth](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/playwright/Readme_playwright.txt)
 
+## Instruccion para Ejecución de Reporte VRT Screenshot_Escenarios_test:
+
+      [Repositorio_codigo]()
+
 ## Funcionalidades:
 
 | Identificador | Funcionalidad | Descripción |
@@ -47,9 +51,6 @@
 | F017 | Borrar member |  A través de esta opción un user con privilegios de edición y configuración en la plataforma en interfaz principal menú lateral sección members puede eliminar un member de acuerdo a su necesidad.|
 | F018 | Editar member |  A través de esta opción un user con privilegios de edición y configuración en la plataforma en interfaz principal menú lateral sección members puede editar un member de acuerdo a su necesidad.|
 | F019 | Exportar members |  A través de esta opción un user con privilegios de edición y configuración en la plataforma en interfaz principal menú lateral sección members puede exportar los members de acuerdo a su necesidad.|
-
-
-
 
 
 
