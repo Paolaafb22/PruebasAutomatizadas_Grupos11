@@ -97,7 +97,8 @@
 |            | Permite personalizar el reporte de una forma sencilla y se pueden adicionar mas parametros que el usuario requiera| la validación de las imagenes tiene que ser por un usuario y revisar bien las diferencias para documentar. |
 |            | se pueden definir con bastante precisión los parametros de comparación de las imagenes. | a pesar que se puede personalizar el reporte, requiere bastante esfuerso en codigo html para logra la vista de la interfaz del reporte.|
 |            | Presenta las diferencias entre las imagenes before y after en porcentajes lo cual es bastante util. | |
-| BackstopJS | |
-|            | |
+| BackstopJS | El reporte html se genera automaticamente, generando bastante ahorro de tiempo y esfuerzo. | Para personalizar el reporte html, es mas dificil que resembleJS  |
+|            | Permite personalizar rutas de imagenes, resultados, parametros de configuración de manera amigable, a través file .json  | 
+|            | permite personalizar el view port de los escenarios facilmente. | requiere mas esfuerso manual para calibrar las imagenes screenshot para un resultado optimo|
 
 
