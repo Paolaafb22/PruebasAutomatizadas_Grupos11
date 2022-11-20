@@ -21,7 +21,7 @@
    
    3. Readmet.txt ejecucion test playwrigth: 
      
-      [Readme_playwrigth](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/playwright/Readme_playwright.txt)
+      [Readme_playwrigth](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/playwright/Readme_playwright.md)
 
 ## Instruccion para Ejecución de Reporte VRT Screenshot_Escenarios_test:
 
