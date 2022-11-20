@@ -98,3 +98,93 @@ Then("I don´t see New Ghost Tag {kraken-string}", async function (TAG_NAME) {
     let elementTag = await this.driver.$('a[href="#/tags/"]');
     return await elementTag.click();
   });
+
+  /////////////////////////
+  
+  
+
+When('I Lw enter email {kraken-string}', async function (email) {
+    let element = await this.driver.$('input[name="identification"]');
+    return await element.setValue(email);
+});
+
+When('I Lw enter password {kraken-string}', async function (password) {
+    let element = await this.driver.$(' input[name="password"]');
+    return await element.setValue(password);
+});
+
+When('I Lw click in sign in', async function() {
+    let element = await this.driver.$('button.login.gh-btn.gh-btn-login.gh-btn-block.gh-btn-icon.ember-view');
+    return await element.click();
+})
+
+Then('I Lw expect see page {kraken-string}', async function (pageItem  ) {
+   let titulo = await this.driver.$('h2.gh-canvas-title=Dashboard');
+   expect(  titulo != undefined );
+});
+
+
+When('I Lw click in post', async function () {
+
+    let element = await this.driver.$('*=Posts');
+    console.log(element.id);
+    return await element.click();
+  });
+
+
+When('I Lw click in new post', async function () {
+
+    //let element = await this.driver.$('a.ember-view.gh-secondary-action.gh-nav-new-post');
+    //return await element.click();
+
+    let element = await this.driver.$('a[href="#/editor/post/"]');
+    return await element.click();
+
+  });
+
+When('I Lw enter title post {kraken-string}', async function (mensaje) {
+    let element = await this.driver.$('textarea[placeholder="Post title"]');
+    return await element.setValue(mensaje);
+});
+
+Then('I Lw expect the post save', async function (pageItem ) {
+    //let div  = await this.driver.$("div.gh-editor-post-status > span > div " );
+    let element = await this.driver.$('a[href="#/posts/"]');
+    return await element.click();
+});
+
+When ('I Lw click  over post {string} ',  async (postDesc)=>{ 
+    var post = {} 
+    await this.driver.$("a.ember-view permalink gh-list-data gh-post-list-title > h3.gh-content-entry-title " ).forEach(element => {
+        if (element.innerText() == postDesc) {
+           post = element;
+        }        
+    });
+    post.click();
+    
+});
+
+When ('I Lw click button detail',  async (postDesc)=>{ 
+    await this.driver.$('button[title="Settings"]').click();
+});
+
+
+When ('I Lw click button delete post', async ()=> {
+    await this.driver.$('button.gh-btn gh-btn-hover-red gh-btn-icon settings-menu-delete-button').click();
+        
+} );
+
+When ('I Lw click button confirm delete',async ()=>{
+    await this.driver.$('gh-btn gh-btn-red gh-btn-icon ember-view').click();
+});
+
+Then('I Lw expect confirm delete {string}', async (postDesc)=>{
+
+    var post = {} 
+    await this.driver.$("a.ember-view permalink gh-list-data gh-post-list-title > h3.gh-content-entry-title " ).forEach(element => {
+        if (element.innerText() == postDesc) {
+           post = element;
+        }        
+    });
+    expect( post).equal(undefined);
+});
