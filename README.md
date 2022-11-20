@@ -9,6 +9,15 @@
 |Rafael Humberto Rodriguez      |rh.rodriguezr1@uniandes.edu.co                                     |
 |Manuel Francisco Vallejo       |mf.vallejo@uniandes.edu.co                                         |
 
+## Instruccion para Ejecución de Test Escenarios:
+ 
+   1. Readme.txt ejecucion test cypress
+      
+   2. Readmet.txt ejecucion test kraken: 
+   
+   3. Readmet.txt ejecucion test playwrigth: 
+   
+
 ## Funcionalidades:
 
 | Identificador | Funcionalidad | Descripción |
