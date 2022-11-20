@@ -93,8 +93,8 @@
 
 | Herramienta | Pros. | Contras |
 |-|-|-|
-| ResembleJS | |
-|            | |
+| ResembleJS | La configuración del ambiente para perzonalizar es comprensible y facil de configurar.  | La documentación del proyecto no es tan detallada |
+|            | Permite personalizar el reporte de una forma sencilla y se pueden adicionar mas parametros que el usuario requiera| la validación de las imagenes tiene que ser por un usuario y revisar bien las diferencias para documentar. |
 | BackstopJS | |
 |            | |
 
