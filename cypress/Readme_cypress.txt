@@ -3,18 +3,22 @@
  - Los scripts de test configurados en la carpeta .\cypress\cypress\e2e prueba 2 funcionalidades de APP Ghost:
    
     . tags : para Este feature se tiene 2 carpetas :
- 
+       . Para test de este feature debe tener creado la cuenta de acceso a Ghost creada en la APP de ghost.
        . featuresTag_VRT: contiene 2 escenarios pruebas VRT
        . featureTag_modificado: Contiene 5 escenarios modificados para toma screen-shot de semana 5.
 
     . pages:
-
- -  el archivo cypress.config.js,  contiene los settings de ejecución de variables para feature: tag.
+       . Para test de este feature debe tener creado la cuenta de acceso a Ghost creada en la APP de ghost.
+       . featurePages_modificado: Contiene 5 escenarios modificados para toma screen-shot de semana 5
+       
+ -  el archivo cypress.config.js,  contiene los settings de ejecución de variables para feature: 
+       Tags:  Edite este archivo y coloque las credenciales de usuario.
 
  -  Los scripts de test configurados en la carpeta /cypress/cypress/e2e fueron probados para ejecución 
     en las versiones de ghost:
 
-      . features tag: Ghost v 3.42 (before) - Ghost v 5.18.0 (after)
+      . featuresPages_VRT: Ghost v 3.42 (before) - Ghost v 4.44 (after)
+      . featuresPages_VRT: contiene 2 escenarios pruebas VRT
 
 
 1. Prerequisitos para ejecucion: 
