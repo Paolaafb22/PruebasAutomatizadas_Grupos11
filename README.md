@@ -13,12 +13,15 @@
  
    1. Readme.txt ejecucion test cypress:
    
-      [Readme_playwright](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/cypress/Readme_cypress.txt)
+      [Readme_cypress](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/cypress/Readme_cypress.txt)
       
    2. Readmet.txt ejecucion test kraken: 
+      
+      [Readme_kraken](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/kraken/Readme_kraken.txt)
    
    3. Readmet.txt ejecucion test playwrigth: 
-   
+     
+      [Readme_playwrigth](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/playwright/Readme_playwright.txt)
 
 ## Funcionalidades:
 
