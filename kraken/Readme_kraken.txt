@@ -42,12 +42,12 @@
 
 2. En la linea de comandos Ubicarse en el path del proyecto:  (instrucciones ejecución windows)
 
-    . ubicarse carpeta raiz cypress: .\kraken
+    . ubicarse carpeta raiz kraken: .\kraken
     . ejecutar comando:
 
       .\kraken-node run
 
-    . El comando ejecutara Los Archivos de test Cypress se encuentran en la ruta:
+    . El comando ejecutara Los Archivos de test Kraken se encuentran en la ruta:
 
         .\kraken\features\    // para Windows se debe ejecutar 1 archivo features.
 
