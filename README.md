@@ -11,7 +11,9 @@
 
 ## Instruccion para Ejecución de Test Escenarios:
  
-   1. Readme.txt ejecucion test cypress
+   1. Readme.txt ejecucion test cypress:
+   
+      [Readme_playwright](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/cypress/Readme_cypress.txt)
       
    2. Readmet.txt ejecucion test kraken: 
    
