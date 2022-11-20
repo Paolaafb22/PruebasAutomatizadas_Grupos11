@@ -25,7 +25,7 @@
 
 ## Instruccion para Ejecución de Reporte VRT Screenshot_Escenarios_test:
 
-      [Readme_reporte_VRT](https://github.com/lwilches/pruebas_automatizadas_vrt_grupo11/blob/main/README.md)
+      [Readme_reporte_VRT]https://github.com/lwilches/pruebas_automatizadas_vrt_grupo11/blob/main/README.md
       
       
 
