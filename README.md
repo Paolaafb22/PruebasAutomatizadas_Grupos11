@@ -109,6 +109,8 @@ https://uniandes-my.sharepoint.com/:v:/g/personal/mr_gomezc1_uniandes_edu_co/EXo
 |E007| Paola Forero | Configurar page |Test app Web GHOST. | cypress (page Object) |Como  usuario administrador inicio sesion web GHOST crea page y previsualiza contenido|El usuario ingresa a la aplicación Ghost con sus credenciales, selecciona la funcionalidad page, crear un nuevo page adiciona el contenido de su preferencia y clic en configurar alli se puede modificar el contenido deseado|
 |E008| Paola Forero | Eliminar page  |Test app Web GHOST. | playwrigth (page Object) |Como  usuario administrador inicio sesion web GHOST crea page y Eliminar page |El usuario ingresa a la aplicación Ghost con sus credenciales, selecciona la funcionalidad page, crear un nuevo page adiciona el contenido de su preferencia y clic en configurar alli puede seleccionar eliminar y confirmar la eliminación. |
 |E009| Paola Forero | Despublicar page |Test app Web GHOST. | playwrigth (page Object) |Como  usuario administrador inicio sesion web GHOST crea page y publica, despublica contenido|El usuario ingresa a la aplicación Ghost con sus credenciales, selecciona la funcionalidad page, crear un nuevo page adiciona el contenido de su preferencia y clic en publicar al retornar a edición page clic en despublicar|
+|E010| Leonardo Wilches| Crear account | Test app Web GHOST | playwrigth (page Object) | Como usuario 1 inicio sesion app ghost y creo una cuenta.|
+|E011| Leonardo Wilches| Create post | Test app Web GHOST | playwrigth (page Object) | Como usuario 1 inicio sesion con cuenta app ghost y creo un post con un name. |
 
 
 
