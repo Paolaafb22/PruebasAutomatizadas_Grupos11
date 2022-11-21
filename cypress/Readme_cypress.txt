@@ -1,4 +1,27 @@
+Versiones utilizadas
+
+Se presentan las versiones utilizadas para la ejecución de las pruebas de Ghost en la herramienta Cypress.
+
+| Dependencia | Versión  |
+| ----------- | -------- |
+| NodeJs      | ^16.16.0 |
+|cypress      | ^10      |
+| Npm         | ^6.14.16 |
+| Ghost CLI   | 1.23.1   |
+| Ghost (App) | 5.22.6   |
+
 # Instrucciones para Ejecución de scripts en Cypress:
+
+- Instalar cypress
+```shell
+npm install
+npm install cypress --save-dev
+```
+
+-Se parte de la suposición el usuario tiene instalada la aplicación Ghost 
+
+-La aplicación hace uso de autenticación de usuario por lo cual se requiere tener una cuenta en Ghost previamente creada 
+antes de iniciar la ejecución de los escenarios. 
 
  - Los scripts de test configurados en la carpeta .\cypress\cypress\e2e prueba 2 funcionalidades de APP Ghost:
    
@@ -19,8 +42,8 @@
 
       . featuresTags_VRT: Ghost v 3.42 (before) - Ghost v 5.18 (after)
       . featuresPages_VRT: Ghost v 3.42 (before) - Ghost v 4.44 (after)
-
-
+      
+      
 1. Prerequisitos para ejecucion: 
 
    . nodeJs: version: 16.16.0
