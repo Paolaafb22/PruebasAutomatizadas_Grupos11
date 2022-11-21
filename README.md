@@ -115,6 +115,8 @@ https://uniandes-my.sharepoint.com/:v:/g/personal/mr_gomezc1_uniandes_edu_co/EXo
 |E009| Paola Forero | Despublicar page |Test app Web GHOST. | playwrigth (page Object) |Como  usuario administrador inicio sesion web GHOST crea page y publica, despublica contenido|El usuario ingresa a la aplicación Ghost con sus credenciales, selecciona la funcionalidad page, crear un nuevo page adiciona el contenido de su preferencia y clic en publicar al retornar a edición page clic en despublicar|
 |E010| Leonardo Wilches| Crear account | Test app Web GHOST | playwrigth (page Object) | Como usuario 1 inicio sesion app ghost y creo una cuenta.| Como user sin creacion en site app ghost, me registro como administrador y creo una cuenta|
 |E011| Leonardo Wilches| Create post | Test app Web GHOST | playwrigth (page Object) | Como usuario 1 inicio sesion con cuenta app ghost y creo un post con un name. | Como usuario administrador y con cuenta definida en app ghost ingreso a app y me ubico en menu posts y creo un nuevo post con nombre. |
+|E012|Rafael Rodriguez| Settings General | Test app Web GHOST | Kraken (given-when-then)| Como usuario 1 inicio sesion con cuenta app ghost y selecciono Setting general metadata y lleno el campo. | Como usuario administrador y con cuenta definida en app ghost ingreso a app y me ubico en menu setting y navego por general, en metadata colocando valores en el campo. |
+|E013|Rafael Rodriguez| Settings Integration | Test app Web GHOST | Playwright (page Object)| Como usuario 1 inicio sesion con cuenta app ghost y selecciono Setting integration y selecciono Ulysses. | Como usuario administrador y con cuenta definida en app ghost ingreso a app y me ubico en menu setting y navego por integration y  selecciono Ulysses. |
 
 
 
