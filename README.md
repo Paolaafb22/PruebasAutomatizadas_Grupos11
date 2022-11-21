@@ -29,7 +29,9 @@
       
       Repositorio_codigo:  https://github.com/lwilches/pruebas_automatizadas_vrt_grupo11/
       
-      [Codigo Reporte html](https://github.com/lwilches/pruebas_automatizadas_vrt_grupo11/blob/main/resultVrt/2022-11-21T00.02.51.118Z/report.html)
+      Codigo Reporte html: https://github.com/lwilches/pruebas_automatizadas_vrt_grupo11/blob/main/resultVrt/2022-11-21T00.02.51.118Z/report.html
+      
+      Carpeta_screenshot_VRT: https://github.com/lwilches/pruebas_automatizadas_vrt_grupo11/tree/main/resultFunctionalTest
       
 # Video para toma de Screenshots
 
@@ -111,8 +113,8 @@ https://uniandes-my.sharepoint.com/:v:/g/personal/mr_gomezc1_uniandes_edu_co/EXo
 |E007| Paola Forero | Configurar page |Test app Web GHOST. | cypress (page Object) |Como  usuario administrador inicio sesion web GHOST crea page y previsualiza contenido|El usuario ingresa a la aplicación Ghost con sus credenciales, selecciona la funcionalidad page, crear un nuevo page adiciona el contenido de su preferencia y clic en configurar alli se puede modificar el contenido deseado|
 |E008| Paola Forero | Eliminar page  |Test app Web GHOST. | playwrigth (page Object) |Como  usuario administrador inicio sesion web GHOST crea page y Eliminar page |El usuario ingresa a la aplicación Ghost con sus credenciales, selecciona la funcionalidad page, crear un nuevo page adiciona el contenido de su preferencia y clic en configurar alli puede seleccionar eliminar y confirmar la eliminación. |
 |E009| Paola Forero | Despublicar page |Test app Web GHOST. | playwrigth (page Object) |Como  usuario administrador inicio sesion web GHOST crea page y publica, despublica contenido|El usuario ingresa a la aplicación Ghost con sus credenciales, selecciona la funcionalidad page, crear un nuevo page adiciona el contenido de su preferencia y clic en publicar al retornar a edición page clic en despublicar|
-|E010| Leonardo Wilches| Crear account | Test app Web GHOST | playwrigth (page Object) | Como usuario 1 inicio sesion app ghost y creo una cuenta.|
-|E011| Leonardo Wilches| Create post | Test app Web GHOST | playwrigth (page Object) | Como usuario 1 inicio sesion con cuenta app ghost y creo un post con un name. |
+|E010| Leonardo Wilches| Crear account | Test app Web GHOST | playwrigth (page Object) | Como usuario 1 inicio sesion app ghost y creo una cuenta.| Como user sin creacion en site app ghost, me registro como administrador y creo una cuenta|
+|E011| Leonardo Wilches| Create post | Test app Web GHOST | playwrigth (page Object) | Como usuario 1 inicio sesion con cuenta app ghost y creo un post con un name. | Como usuario administrador y con cuenta definida en app ghost ingreso a app y me ubico en menu posts y creo un nuevo post con nombre. |
 
 
 
@@ -126,6 +128,6 @@ https://uniandes-my.sharepoint.com/:v:/g/personal/mr_gomezc1_uniandes_edu_co/EXo
 |            | Presenta las diferencias entre las imagenes before y after en porcentajes lo cual es bastante util. | |
 | BackstopJS | El reporte html se genera automaticamente, generando bastante ahorro de tiempo y esfuerzo. | Para personalizar el reporte html, es mas dificil que resembleJS  |
 |            | Permite personalizar rutas de imagenes, resultados, parametros de configuración de manera amigable, a través file .json  | 
-|            | permite personalizar el view port de los escenarios facilmente. | requiere mas esfuerso manual para calibrar las imagenes screenshot para un resultado optimo|
+|            | permite personalizar el view port de los escenarios facilmente. | requiere mas esfuerso manual para calibrar las imagenes screenshot para un resultado óptimo. |
 
 
