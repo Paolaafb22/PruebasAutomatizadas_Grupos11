@@ -11,7 +11,8 @@
     "URL2": "http://localhost:3001/ghost/#/settings/general",
     "texto": "fin de la prueba",
     "URL3": "http://localhost:2368/ghost/#/settings/design",
-    "texto2": "qqqqqq"
-
+    "texto2": "qqqqqq",
+    "title_page": "pageNew",
+    "textcontent": "contentPage"
 
 }
