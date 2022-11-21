@@ -29,6 +29,8 @@
       
       Repositorio_codigo:  https://github.com/lwilches/pruebas_automatizadas_vrt_grupo11/
       
+      [Codigo Reporte html](https://github.com/lwilches/pruebas_automatizadas_vrt_grupo11/blob/main/resultVrt/2022-11-21T00.02.51.118Z/report.html)
+      
 # Video para toma de Screenshots
 
 https://uniandes-my.sharepoint.com/:v:/g/personal/mr_gomezc1_uniandes_edu_co/EXoceRYy7wFCjLqCESNtz8cB8kyaYwa8ElCZRdd6yNvyEg?e=sMrJ3d
