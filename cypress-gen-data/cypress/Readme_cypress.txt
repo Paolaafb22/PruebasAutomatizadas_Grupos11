@@ -50,7 +50,9 @@ antes de iniciar la ejecución de los escenarios.
     . ubicarse carpeta raiz cypress: .\cypress
     . ejecutar comando:
 
-      .\cypress run -s .\
+      .\cypress run -s .\cypress\e2e\aleatorio\<archivo-especifico-cy.js>
+      .\cypress run -s .\cypress\e2e\pool-apriori\<archivo-especifico-cy.js>
+      .\cypress run -s .\cypress\e2e\pool-dinamico\<archivo-especifico-cy.js>
 
     . El comando ejecutara Los Archivos de test Cypress se encuentran en la ruta:
 
@@ -58,6 +60,6 @@ antes de iniciar la ejecución de los escenarios.
 
 3. verifique el resultado de screenshot en carpeta:  
    
-        .\cypress\cypress\\
+        .\cypress\cypress\screenchot\
 
 4. Verifique el resultado de la ejecucion de los scripts de escenarios en la linea de comandos de windows.
