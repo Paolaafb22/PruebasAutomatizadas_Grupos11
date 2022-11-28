@@ -15,7 +15,16 @@
 
 1. Generación de datos A priori a través de herramienta cloud Mockaroo. Se utilizó la generacion de pool de datos que se descargaron a los directorios de herramientas de Test  Cypress y Playwright.
 
+los pool de datos generados a través de herramienta se encuentran en carpeta :
+Cypress:
+https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/tree/main/cypress-gen-data/cypress/cypress/fixtures
+
+Playwright:
+
+
+
 ![image](https://user-images.githubusercontent.com/111325464/204193799-035d9960-7335-4af6-b21c-95b0081ee885.png)
+
 
 
 
