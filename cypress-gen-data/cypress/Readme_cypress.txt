@@ -23,25 +23,15 @@ npm install cypress --save-dev
 -La aplicación hace uso de autenticación de usuario por lo cual se requiere tener una cuenta en Ghost previamente creada 
 antes de iniciar la ejecución de los escenarios. 
 
- - Los scripts de test configurados en la carpeta .\cypress\cypress\e2e prueba 2 funcionalidades de APP Ghost:
+ - Los scripts de test configurados en la carpeta .\cypress-gen-data\cypress\cypress\e2e  carpetas:
    
-    . tags : para Este feature se tiene 2 carpetas :
-       . Para test de este feature debe tener creado la cuenta de acceso a Ghost creada en la APP de ghost.
-       . featuresTag_VRT: contiene 2 escenarios pruebas VRT
-       . featureTag_modificado: Contiene 5 escenarios modificados para toma screen-shot de semana 5.
-
-    . pages:
-       . Para test de este feature debe tener creado la cuenta de acceso a Ghost creada en la APP de ghost.
-       . featurePages_modificado: Contiene 5 escenarios modificados para toma screen-shot de semana 5
+    . aleatorio/
+    . pool-apriori/
+    . pool-dinamico/
        
  -  el archivo cypress.config.js,  contiene los settings de ejecución de variables para features: 
-       Tags:  Edite este archivo y coloque las credenciales de usuario.
-
- -  Los scripts de test configurados en la carpeta /cypress/cypress/e2e fueron probados para ejecución 
-    en las versiones de ghost:
-
-      . featuresTags_VRT: Ghost v 3.42 (before) - Ghost v 5.18 (after)
-      . featuresPages_VRT: Ghost v 3.42 (before) - Ghost v 4.44 (after)
+       .Edite este archivo y coloque las credenciales de usuario.
+       .En el archivo se encuentran los datos de acceso a la API de Mockaroo para provisión de datos Pseudo aleatorios
       
       
 1. Prerequisitos para ejecucion: 
@@ -60,7 +50,7 @@ antes de iniciar la ejecución de los escenarios.
     . ubicarse carpeta raiz cypress: .\cypress
     . ejecutar comando:
 
-      .\cypress run
+      .\cypress run -s .\
 
     . El comando ejecutara Los Archivos de test Cypress se encuentran en la ruta:
 
@@ -68,6 +58,6 @@ antes de iniciar la ejecución de los escenarios.
 
 3. verifique el resultado de screenshot en carpeta:  
    
-        .\cypress\cypress\e2e\
+        .\cypress\cypress\\
 
 4. Verifique el resultado de la ejecucion de los scripts de escenarios en la linea de comandos de windows.
