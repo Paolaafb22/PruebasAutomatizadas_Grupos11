@@ -11,7 +11,15 @@
 
 ## GENERACION DE DATOS:
 
+## Descripción de escenarios utilizados para la generacíon de los Datos para las pruebas:
+
+1. Generación de datos A priori a través de herramienta cloud Mockaroo. Se utilizó la generacion de pool de datos que se descargaron a los directorios de herramientas de Test  Cypress y Playwright.
+![image](https://user-images.githubusercontent.com/111325464/204193519-b0297f76-cf1f-4215-8223-c91b9d9e4d69.png)
+
+
 ## Instruccion para Ejecución de Test Escenarios:
+ 
+ Se utilizaron 2 herramientas para la ejecucion de los test de Escenarios Listados :
  
    1. Readme.txt ejecucion test cypress:
    
