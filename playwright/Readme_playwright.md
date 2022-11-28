@@ -14,25 +14,31 @@
 
 1. Prerequisitos para ejecucion: 
 
-   . nodeJs: version: 16.16.0
+   * nodeJs: version: 16.16.0
 
-   . Tener instalado   playwright.
+   * Tener instalado   playwright.
       npm install playwright
 
-   . decargar el proyecto de git.
+   * decargar el proyecto de git.
       https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11.git
    
 
-2. En la linea de comandos Ubicarse en el path del proyecto:  (instrucciones ejecución windows)
+2.  La url base de ghost se encuenta en el archivo de configuracion de playwright :
 
-    . ubicarse carpeta raiz  playwright: .\playwright
-    . ejecutar comando:
+    * ubicarse carpeta raiz  playwright: .\playwright
+    * buscar archivo `playwright.config.ts`
+    * buscar parametro `config.use.baseURL`
+    
 
-      .\node index.js
+2.  los fuentes de los test se encuentran en la carpeta /tests :
 
+    * para cada semana hay una carpeta con los test desarrollados
+    * semana6
+    * semana7
+ 
+3. Los datos de apriori es /mock_data
 
-
-3. verifique el resultado de screenshot en carpeta:  
+4. verifique el resultado de screenshot en carpeta:  
    
         .\playwright
       * Ejecutar comando  `npm install`
