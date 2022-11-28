@@ -1,5 +1,8 @@
 import { test, expect } from '@playwright/test';
+import {InfoAccountFactory} from '../../model/infoAccountFactory'
 import {faker} from '@faker-js/faker'   
+import config from '../../playwright.config';
+
 
 test('test', async ({ page }) => {
   await page.goto('http://localhost:2368/ghost/');
@@ -15,7 +18,7 @@ test('test', async ({ page }) => {
   await page.locator('#ember94').click();
   await page.locator('#ember94').press('Shift+Home');
   await page.locator('#ember94').fill(faker.lorem.paragraph());
-  await page.screenshot({path: './EC01.png'}) 
+  await page.screenshot({path: '../result/EC01.png'}) 
   await page.locator('#ember94').press('Tab');
 });
 
