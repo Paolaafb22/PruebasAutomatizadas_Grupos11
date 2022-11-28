@@ -33,6 +33,10 @@ Playwright:
   utilización de la data para el test:
   
   ![image](https://user-images.githubusercontent.com/111325464/204196002-7f9e2c1f-1019-4e14-b695-7da5583463e1.png)
+  
+  3. Para generación de datos Aleatorios se utiliza libreria fakerJS en script de test:
+  ![image](https://user-images.githubusercontent.com/111325464/204196261-10302a04-131b-48f8-a374-5258100a8429.png)
+
 
 ## Instruccion para Ejecución de Test Escenarios:
  
