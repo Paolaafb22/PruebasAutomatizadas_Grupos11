@@ -1,6 +1,8 @@
 import { test, expect } from '@playwright/test';
 import {faker} from '@faker-js/faker' 
 
+import config from '../../playwright.config';
+
 test('test', async ({ page }) => {
 
   await page.goto('http://localhost:2368/ghost/');
