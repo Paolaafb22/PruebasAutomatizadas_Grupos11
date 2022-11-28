@@ -44,6 +44,9 @@ antes de iniciar la ejecución de los escenarios.
    . decargar el proyecto de git.
       https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11.git
    
+      .ubicarse dentro de carpeta: .\cypress-gen-data\
+      . ejecute: npm install.  para instalación de dependencias.
+      
 
 2. En la linea de comandos Ubicarse en el path del proyecto:  (instrucciones ejecución windows)
 
