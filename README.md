@@ -26,7 +26,13 @@ Playwright:
 ![image](https://user-images.githubusercontent.com/111325464/204193799-035d9960-7335-4af6-b21c-95b0081ee885.png)
 
 
+2. Generación de datos PseudoAleatorios a través de API Mockaroo y metodo proporcionado por Mockaroo javascript
 
+![image](https://user-images.githubusercontent.com/111325464/204195924-74bcbee3-1c34-4a6f-a177-380fcbda2e98.png)
+
+  utilización de la data para el test:
+  
+  ![image](https://user-images.githubusercontent.com/111325464/204196002-7f9e2c1f-1019-4e14-b695-7da5583463e1.png)
 
 ## Instruccion para Ejecución de Test Escenarios:
  
@@ -42,7 +48,9 @@ Playwright:
       [Readme_playwrigth](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/playwright/Readme_playwright.md)
 
 
-      
+   
+
+     
 
 ## Funcionalidades:
 
