@@ -43,3 +43,15 @@ la entrega de la semana 8. Para ver el documento se debe tener usuario de uniand
 | | Soporte a grabacion de pruebas,  lo que facilita la escritura de las pruebas   |Al ejecutar escenarios multiples puede generar error por el paralelismo|
 | |Cuenta con la opción de Codegen, el cual ayuda a generar el codigo de la prueba |no tiene mensajes en pantalla que indiquen el flujo de la ejecución|
 | | El manejo asincrono de eventos es muy util para aprovechar recurso de la maquina|No es facil seguir un escenario independiente para la lectura, entendimiento y modificación del mismo.
+
+#### ResembleJS - BackstopJS
+
+| Herramienta | Pros. | Contras |
+|-|-|-|
+| ResembleJS | La configuración del ambiente para perzonalizar es comprensible y facil de configurar.  | La documentación del proyecto no es tan detallada |
+|            | Permite personalizar el reporte de una forma sencilla y se pueden adicionar mas parametros que el usuario requiera| la validación de las imagenes tiene que ser por un usuario y revisar bien las diferencias para documentar. |
+|            | se pueden definir con bastante precisión los parametros de comparación de las imagenes. | a pesar que se puede personalizar el reporte, requiere bastante esfuerso en codigo html para logra la vista de la interfaz del reporte.|
+|            | Presenta las diferencias entre las imagenes before y after en porcentajes lo cual es bastante util. | |
+| BackstopJS | El reporte html se genera automaticamente, generando bastante ahorro de tiempo y esfuerzo. | Para personalizar el reporte html, es mas dificil que resembleJS  |
+|            | Permite personalizar rutas de imagenes, resultados, parametros de configuración de manera amigable, a través file .json  | 
+|            | permite personalizar el view port de los escenarios facilmente. | requiere mas esfuerso manual para calibrar las imagenes screenshot para un resultado óptimo. |
