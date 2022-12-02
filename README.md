@@ -23,3 +23,7 @@ la entrega de la semana 8. Para ver el documento se debe tener usuario de uniand
 |---------|-------------|--------|
 
 ### 4. Video Presentación de estrategia de Pruebas:
+
+### 5. Pros y Contras Herramientas de pruebas utilizadas:
+
+
