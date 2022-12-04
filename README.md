@@ -19,10 +19,11 @@ la entrega de la semana 8. Para ver el documento se debe tener usuario de uniand
 
 ### 3. Técnicas de pruebas utilizadas:
 
-| Tecnica | Repositorio | Readme |
-|---------|-------------|--------|
-||||
-||||
+| Tecnica | Repositorio | Readme | Herramienta |
+|---------|-------------|--------|-------------|
+|Pruebas Manuales||||
+|Pruebas reconocimiento |https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/tree/main/monkey-cypress-master|https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/monkey-cypress-master/README.md| cypress |
+
 
 ### 4. Video Presentación de estrategia de Pruebas:
 
