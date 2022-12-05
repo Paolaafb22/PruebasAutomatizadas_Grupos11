@@ -1,4 +1,7 @@
-Versiones utilizadas
+Versiones utilizadas:
+Test E2E
+Test Generacion de datos.
+Test VRT.
 
 Se presentan las versiones utilizadas para la ejecución de las pruebas de Ghost en la herramienta Cypress.
 
@@ -28,6 +31,8 @@ antes de iniciar la ejecución de los escenarios.
     . aleatorio/
     . pool-apriori/
     . pool-dinamico/
+    . featureTag_modificado/
+    . featurePage_modificado/
        
  -  el archivo cypress.config.js,  contiene los settings de ejecución de variables para features: 
        .Edite este archivo y coloque las credenciales de usuario.
@@ -53,9 +58,9 @@ antes de iniciar la ejecución de los escenarios.
     . ubicarse carpeta raiz cypress: .\cypress
     . ejecutar comando:
 
-      .\cypress run -s .\cypress\e2e\aleatorio\<archivo-especifico-cy.js>
+      .\cypress run -s .\cypress\e2e\<carpeta_test(e2e, vrt, o Generacion de datos)>\<archivo-especifico-cy.js>
       .\cypress run -s .\cypress\e2e\pool-apriori\<archivo-especifico-cy.js>
-      .\cypress run -s .\cypress\e2e\pool-dinamico\<archivo-especifico-cy.js>
+
 
     . El comando ejecutara Los Archivos de test Cypress se encuentran en la ruta:
 
