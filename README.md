@@ -17,6 +17,12 @@ la entrega de la semana 8. Para ver el documento se debe tener usuario de uniand
 
 ### 2. Inventario de Pruebas Manuales:
 
+Enlace a inventario Pruebas Exploratorias Manuales:
+
+Nota: Ver el archivo con el usuario de Uniandes
+
+[Pruebas_Exploratorias_Manuales](https://uniandes-my.sharepoint.com/:x:/g/personal/mr_gomezc1_uniandes_edu_co/EdvgRc2R0nBNgJ5MYx0NoLABopX-7-mosEmyMrnBj7oozA?e=naXdtE)
+
 ### 3. Técnicas de pruebas utilizadas:
 
 | Tecnica | Repositorio | Readme | Herramienta |
@@ -24,7 +30,7 @@ la entrega de la semana 8. Para ver el documento se debe tener usuario de uniand
 |Pruebas Manuales| Punto No 2| N/A| Manual |
 |Pruebas reconocimiento |[smart-monkey](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/tree/main/monkey-cypress-master)| [readme](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/monkey-cypress-master/README.md)| cypress |
 | Pruebas E2E | | | |
-| Pruebas regresion VRT | [test-vtr-resemblejs](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/tree/main/test-vtr-resemblejs)| [readme](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/test-vtr-resemblejs/README.md)| resemblejs |
+| Pruebas regresion VRT | | | |
 | Pruebas Generacion de datos | | | |
 
 
