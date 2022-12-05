@@ -14,6 +14,8 @@
 En el siguiente link se encuentra el documento que detalla la estrategia de pruebas correspondiente a requerimiento realizado para 
 la entrega de la semana 8. Para ver el documento se debe tener usuario de uniandes.
 
+[Formato_estrategia-pruebas.pdf](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/files/10150264/Formato_estrategia-pruebas.pdf)
+
 ### 2. Inventario de Pruebas Manuales:
 
 Enlace a inventario Pruebas Exploratorias Manuales:
