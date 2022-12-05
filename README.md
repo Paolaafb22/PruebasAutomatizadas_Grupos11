@@ -42,6 +42,8 @@ Nota: Ver el archivo con el usuario de Uniandes
 
 ### 4. Video Presentación de estrategia de Pruebas:
 
+[video_Presentacion_Estrategia](https://uniandes-my.sharepoint.com/:v:/g/personal/mr_gomezc1_uniandes_edu_co/EbkC9tCAJZ9KjGdcitk6gLABvPbFR5_JV-3nsUeralvNSQ?e=JT4abS)
+
 ### 5. Restrospectiva:
 Enlace retrospectiva:
 [retrospectiva](https://miro.com/welcomeonboard/Ym5VYUhVblZSeEpPSzhzSEdkMm90clpKSjVYYkEwckFJR042NEo0QU9zenlrY3M4NE1sV2UzTG9aT3I3S2Nld3wzNDU4NzY0NTQwMTk0OTA5MDA4fDI=?share_link_id=122380641667)
