@@ -35,7 +35,7 @@ Nota: Ver el archivo con el usuario de Uniandes
 |             | [Repo_Cypress_features_1](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/tree/main/cypress-gen-data/cypress/cypress/e2e/featurePage_modificado) | [ readme ](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/cypress-gen-data/cypress/Readme_cypress.txt)| Cypress |
 |             | [Repo_Cypress_features_2](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/tree/main/cypress-gen-data/cypress/cypress/e2e/featureTag_modificado)| [ readme ](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/cypress-gen-data/cypress/Readme_cypress.txt) | Cypress |
 | Pruebas regresion VRT | [test-vrt-resemblejs](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/tree/main/test-vtr-resemblejs)| [readme](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/test-vtr-resemblejs/README.md)| resemblejs |
-| Pruebas Generacion de datos | [apriori-for-playwright](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/tree/main/playwright/mock_data) | | mockaroo |
+| Pruebas Generacion de datos | [apriori-for-playwright](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/tree/main/playwright/mock_data) | [readme](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/playwright/Readme_playwright.md)| mockaroo |
 
 
 
