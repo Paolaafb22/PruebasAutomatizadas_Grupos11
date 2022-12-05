@@ -44,6 +44,9 @@ Nota: Ver el archivo con el usuario de Uniandes
 ### 5. Restrospectiva:
 Enlace retrospectiva:
 [retrospectiva](https://miro.com/welcomeonboard/Ym5VYUhVblZSeEpPSzhzSEdkMm90clpKSjVYYkEwckFJR042NEo0QU9zenlrY3M4NE1sV2UzTG9aT3I3S2Nld3wzNDU4NzY0NTQwMTk0OTA5MDA4fDI=?share_link_id=122380641667)
+
+![image](https://user-images.githubusercontent.com/111325464/205530837-2b285fcf-ca61-4204-8e5d-28298b25f63c.png)
+
 ### 6. Pros y Contras Herramientas de pruebas utilizadas:
 
 
