@@ -19,9 +19,10 @@ la entrega de la semana 8. Para ver el documento se debe tener usuario de uniand
 
 Enlace a inventario Pruebas Exploratorias Manuales:
 
+[8.Formato_inventario-pruebas-exploratorias.xlsx](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/files/10149848/8.Formato_inventario-pruebas-exploratorias.xlsx)
+
 Nota: Ver el archivo con el usuario de Uniandes
 
-[Pruebas_Exploratorias_Manuales](https://uniandes-my.sharepoint.com/:x:/g/personal/mr_gomezc1_uniandes_edu_co/EdvgRc2R0nBNgJ5MYx0NoLABopX-7-mosEmyMrnBj7oozA?e=naXdtE)
 
 ### 3. Técnicas de pruebas utilizadas:
 
