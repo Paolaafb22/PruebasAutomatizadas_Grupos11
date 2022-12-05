@@ -31,6 +31,7 @@ Nota: Ver el archivo con el usuario de Uniandes
 |Pruebas Manuales| Punto No 2| N/A| Manual |
 |Pruebas reconocimiento |[smart-monkey](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/tree/main/monkey-cypress-master)| [readme](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/monkey-cypress-master/README.md)| cypress |
 | Pruebas E2E | [playwright](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/tree/main/playwright) | [Readme](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/playwright/Readme_playwright.md) | playwright|
+|             | [Repo_Kraken](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/tree/main/kraken) | [ readme ]() | Kraken | 
 | Pruebas regresion VRT | [test-vrt-resemblejs](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/tree/main/test-vtr-resemblejs)| [readme](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/blob/main/test-vtr-resemblejs/README.md)| resemblejs |
 | Pruebas Generacion de datos | [apriori-for-playwright](https://github.com/Paolaafb22/PruebasAutomatizadas_Grupos11/tree/main/playwright/mock_data) | | mockaroo |
 
