@@ -38,7 +38,10 @@ Nota: Ver el archivo con el usuario de Uniandes
 
 ### 4. Video Presentación de estrategia de Pruebas:
 
-### 5. Pros y Contras Herramientas de pruebas utilizadas:
+### 5. Restrospectiva:
+Enlace retrospectiva:
+[retrospectiva](https://miro.com/welcomeonboard/Ym5VYUhVblZSeEpPSzhzSEdkMm90clpKSjVYYkEwckFJR042NEo0QU9zenlrY3M4NE1sV2UzTG9aT3I3S2Nld3wzNDU4NzY0NTQwMTk0OTA5MDA4fDI=?share_link_id=122380641667)
+### 6. Pros y Contras Herramientas de pruebas utilizadas:
 
 
 #### Kraken-Cypress-Playwrigth
