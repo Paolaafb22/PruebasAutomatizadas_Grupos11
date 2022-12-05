@@ -42,7 +42,8 @@
    
         .\playwright
       * Ejecutar comando  `npm install`
-      * Para correr los test `npm playwright test`
+      * Para correr los test VRT `npx playwright test /test/semana6`
+      * Para correr los test E2E `npx playwright test /test/semana7`
       * Para ver  los resultados `npx playwright show-report`
       
 4. Verifique el resultado de la ejecucion de los scripts de escenarios en la linea de comandos de windows.
