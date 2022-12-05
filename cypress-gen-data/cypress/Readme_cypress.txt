@@ -33,6 +33,7 @@ antes de iniciar la ejecución de los escenarios.
     . pool-dinamico/
     . featureTag_modificado/
     . featurePage_modificado/
+    . featuresTag_VRT/
        
  -  el archivo cypress.config.js,  contiene los settings de ejecución de variables para features: 
        .Edite este archivo y coloque las credenciales de usuario.
@@ -59,9 +60,7 @@ antes de iniciar la ejecución de los escenarios.
     . ejecutar comando:
 
       .\cypress run -s .\cypress\e2e\<carpeta_test(e2e, vrt, o Generacion de datos)>\<archivo-especifico-cy.js>
-      .\cypress run -s .\cypress\e2e\pool-apriori\<archivo-especifico-cy.js>
-
-
+      
     . El comando ejecutara Los Archivos de test Cypress se encuentran en la ruta:
 
         .\cypress\cypress\e2e\
